@@ -19,6 +19,8 @@ The save_to_file function writes the captured keystrokes to a file named key_log
 
 The Listener class from pynput is used to monitor key press and release events. The listener runs in a loop, calling the appropriate functions for each event.
 
+# Check a Project Demo
+[Watch the Demo on YouTube](https://youtu.be/rTksKxpAHn4)
 
 # Disclaimer:
 This keystroke logging project is created for educational and security research purposes only. It is intended to demonstrate how keylogging works and to help users understand the potential security implications. Unauthorized use of this code to capture keystrokes on any system without permission is illegal and unethical. Use this code responsibly and ensure that you have explicit consent from the owner of the system on which you are running this keylogger.
